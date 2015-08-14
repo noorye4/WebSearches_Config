@@ -1,0 +1,97 @@
+{
+  "DontPromptUpdateMsg": false,
+  "Hotkey": "Alt + Q",
+  "Theme": "Light",
+  "QueryBoxFont": "Microsoft YaHei UI",
+  "QueryBoxFontStyle": "Normal",
+  "QueryBoxFontWeight": "Normal",
+  "QueryBoxFontStretch": "Normal",
+  "ResultItemFont": "Lucida Fax",
+  "ResultItemFontStyle": "Normal",
+  "ResultItemFontWeight": "Normal",
+  "ResultItemFontStretch": "Normal",
+  "ReplaceWinR": false,
+  "WebSearches": [
+    {
+      "Title": "Google",
+      "ActionWord": "g",
+      "IconPath": "C:\\Users\\ks812\\wox\\Images\\websearch\\google.png",
+      "Url": "https://www.google.com/search?q={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Wikipedia",
+      "ActionWord": "wiki",
+      "IconPath": "C:\\Users\\ks812\\wox\\Images\\websearch\\wiki.png",
+      "Url": "http://en.wikipedia.org/wiki/{q}",
+      "Enabled": true
+    },
+    {
+      "Title": "ICONfinder",
+      "ActionWord": "icon",
+      "IconPath": "C:\\Users\\ks812\\wox\\Images\\websearch\\iconfinder.png",
+      "Url": "https://www.iconfinder.com/search/?q={q}&price=free&style=glyph",
+      "Enabled": true
+    },
+    {
+      "Title": "baidu",
+      "ActionWord": "b",
+      "IconPath": "C:\\Users\\ks812\\wox\\Images\\websearch\\baidu.png",
+      "Url": "http://www.baidu.com/s?wd={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Pypi",
+      "ActionWord": "p",
+      "IconPath": "C:\\Users\\ks812\\wox\\Images\\websearch\\python.png",
+      "Url": "https://pypi.python.org/pypi?%3Aaction=search&term={q}&submit=search",
+      "Enabled": true
+    },
+    {
+      "Title": "github",
+      "ActionWord": "git",
+      "IconPath": "C:\\Users\\ks812\\wox\\Images\\websearch\\github.png",
+      "Url": "https://github.com/search?utf8=%E2%9C%93&q={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "bitbucket",
+      "ActionWord": "bit",
+      "IconPath": "C:\\Users\\ks812\\wox\\Images\\websearch\\bitbucket.png",
+      "Url": "https://bitbucket.org/repo/all?name={q}",
+      "Enabled": true
+    }
+  ],
+  "WindowLeft": 560.0,
+  "WindowTop": 203.0,
+  "ProgramSources": [],
+  "FolderLinks": [
+    {
+      "Path": "C:\\Users\\ks812\\Downloads",
+      "Nickname": "Downloads"
+    },
+    {
+      "Path": "C:\\Users\\ks812",
+      "Nickname": "ks812"
+    },
+    {
+      "Path": "C:\\Users\\ks812\\work",
+      "Nickname": "work"
+    }
+  ],
+  "CustomizedPluginConfigs": [],
+  "CustomPluginHotkeys": null,
+  "StartWoxOnSystemStartup": true,
+  "Opacity": 1.0,
+  "ProgramSuffixes": "lnk;exe;appref-ms;bat",
+  "OpacityMode": 0,
+  "EnableWebSearchSuggestion": true,
+  "WebSearchSuggestionSource": "Google",
+  "LeaveCmdOpen": false,
+  "HideWhenDeactive": false,
+  "ProxyServer": null,
+  "ProxyEnabled": false,
+  "ProxyPort": 0,
+  "ProxyUserName": null,
+  "ProxyPassword": null
+}
