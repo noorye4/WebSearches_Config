@@ -1,2 +1,1 @@
-# WebSearches_Config
-The websearches is a plugin for WOX (windows launcher)
+# nooryes software_config
